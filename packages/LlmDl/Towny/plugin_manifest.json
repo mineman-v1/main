@@ -1,0 +1,10 @@
+{
+  "name": "Towny",
+  "author": "LlmDl",
+  "version": "0.100.3.0",
+  "description": "Towny is an advanced plugin for Minecraft servers, providing a variety of tools and features to manage towns, nations, and economy.",
+  "minecraft_version": "1.20.5",
+  "dependencies": {},
+  "checksum": "bca5e88112532933725b88febcd278d7d3019f9d3eed6a30ecec7a2b21acd1a9",
+  "release_date": "2024-07-26"
+}
